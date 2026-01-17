@@ -1,0 +1,9 @@
+# 节点
+node_id = 1
+# GRCP挂载端口
+grpc_port = 1234
+
+# 日志存放的路径
+[log]
+config = "./log_file/log4rs.yaml"
+path = "./log_file"
